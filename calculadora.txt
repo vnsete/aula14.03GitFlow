@@ -1,3 +1,5 @@
 declaração de variáveis
 .
 Entradas no programa
+.
+Criação da função Soma
