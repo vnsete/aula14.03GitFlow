@@ -1,5 +1,5 @@
-declaração de variáveis
+declaração de variáveis TESTE OK
 .
-Entradas no programa
+Entradas no programa TESTE OK
 .
-Criação da função Soma
+Criação da função Soma TESTE OK
